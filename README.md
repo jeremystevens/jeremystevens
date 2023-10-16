@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hi, I'm Jeremy 👋
 
-<!--
-**jeremystevens/jeremystevens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about programming and technology. When I'm not programming, I'm busy making digital music 🎶.
 
-Here are some ideas to get you started:
+🌱 Currently learning and exploring new technologies.
+🎵 Music producer and enthusiast.
+💼 Software developer by day, music creator by night.
+📫 Feel free to reach out to me at jeremiahstevens@gmail.com.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with Me
+
+[![GitHub](https://img.shields.io/github/followers/jeremystevens?label=Follow&style=social)](https://github.com/jeremystevens)
+[![SoundCloud](https://img.shields.io/badge/SoundCloud-Follow-orange)](https://soundcloud.com/jstevens650)
+
+### My Interests
+
+- 👨‍💻 Programming and Coding
+- 📚 Learning New Technologies
+- 🎵 Creating Digital Music
+- 🎮 Gaming
+
+### GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeremystevens&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremystevens&layout=compact)
+
+---
+
+Thanks for stopping by my GitHub profile! Feel free to explore my projects and connect with me.
