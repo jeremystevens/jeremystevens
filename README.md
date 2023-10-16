@@ -3,8 +3,11 @@
 I'm passionate about programming and technology. When I'm not programming, I'm busy making digital music 🎶.
 
 🌱 Currently learning and exploring new technologies.
+
 🎵 Music producer and enthusiast.
+
 💼 Software developer by day, music creator by night.
+
 📫 Feel free to reach out to me at jeremiahstevens@gmail.com.
 
 ### Connect with Me
